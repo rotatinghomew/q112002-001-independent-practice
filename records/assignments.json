@@ -1,0 +1,23 @@
+[
+  {
+    "anchor": "b6",
+    "goal": "reason",
+    "rater": "丙",
+    "state": "accepted",
+    "minute": 102
+  },
+  {
+    "anchor": "b7",
+    "goal": "reason",
+    "rater": "甲",
+    "state": "planned",
+    "minute": 102
+  },
+  {
+    "anchor": "b8",
+    "goal": "counter",
+    "rater": "甲",
+    "state": "planned",
+    "minute": 102
+  }
+]

@@ -3,7 +3,7 @@
 阶段教研会议的材料由作答、提示记录、量规和分项评分组成。A、B、C 是班级，甲、乙、丙是匿名评阅员。
 `stage` 是教学阶段整数，`minute` 是同一阶段的统一分钟轴。提示只适用于本阶段的同一学生与目标。
 桥接作答不属于学生表现：两位教师按各自班口径对同一锚作答评分。量规的 `bridge_min` 与 `gap_limit` 是该目标准入门槛：两班至少有这么多共同评阅；配对评分之差的极差超过 `gap_limit` 时，不能用该班对确认跨班结果。评分为 0 至 4。跨多对班级时，互相矛盾的尺度关系应标待复评，不选一条任意路径。最低独立次数指不同任务上的独立机会；`score_floor` 是区分辅导与达标的量规门槛。
-教务回执是外部系统记录；已完成的回执号不会重复分配。`publication` 是会议采用的早期资料截止点，不是标准答案。补交、撤回用 `received` 表示到达分钟，撤回指向对应的桥接评分登记号。
+教务回执是外部系统记录；已完成的回执号不会重复分配。`publication` 是会议采用的早期资料截止点，不是标准答案。补交、撤回用 `received` 表示到达分钟，撤回指向对应的桥接评分登记号。锚作答的共同分项使用 A 班量规作为跨班解释基准；不通向 A 时可保留本班分项观察，但不可视为使用 A 班尺度。复评容量按锚作答、分项计分钟，分项授权定义在轮次表。
 
 ## 资料格式
 
@@ -17,6 +17,9 @@
 - `withdrawals`：桥接评分撤回通知。 字段：`notice`、`mark`、`received`、`reason`。
 - `minutes`：会议早期采用的资料截点。 字段：`publication`、`cutoff`、`scope`。
 - `receipts`：补评或辅导回执；state 为 complete 或 open。 字段：`receipt`、`student`、`goal`、`decision`、`owner`、`state`、`minute`、`publication`。
+- `anchors`：可选锚作答及首次评阅员。 字段：`anchor`、`goal`、`from_room`、`first_rater`、`minutes`、`ready`。
+- `review_rounds`：复评分项授权与剩余总分钟。 字段：`rater`、`room`、`goals`、`minutes`、`minute`。
+- `assignments`：复评批次已接单或备发记录。 字段：`anchor`、`goal`、`rater`、`state`、`minute`。
 
 ## 本地查看
 

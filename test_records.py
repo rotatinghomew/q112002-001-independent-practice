@@ -16,6 +16,7 @@ class RecordsTest(unittest.TestCase):
         self.references('marks','goal','objectives','goal')
         self.references('withdrawals','mark','marks','mark')
         self.references('receipts','publication','minutes','publication')
+        self.references('assignments','anchor','anchors','anchor')
         attempts = self.tables['attempts']
         hint = self.tables['hints'][0]
         before = next(row for row in attempts if row['attempt']=='a1')

@@ -1,0 +1,58 @@
+[
+  {
+    "anchor": "b1",
+    "goal": "reason",
+    "from_room": "A",
+    "first_rater": "甲",
+    "minutes": 5,
+    "ready": 80
+  },
+  {
+    "anchor": "b2",
+    "goal": "reason",
+    "from_room": "A",
+    "first_rater": "甲",
+    "minutes": 10,
+    "ready": 80
+  },
+  {
+    "anchor": "b3",
+    "goal": "reason",
+    "from_room": "B",
+    "first_rater": "乙",
+    "minutes": 8,
+    "ready": 82
+  },
+  {
+    "anchor": "b5",
+    "goal": "counter",
+    "from_room": "A",
+    "first_rater": "甲",
+    "minutes": 9,
+    "ready": 84
+  },
+  {
+    "anchor": "b6",
+    "goal": "reason",
+    "from_room": "B",
+    "first_rater": "乙",
+    "minutes": 11,
+    "ready": 98
+  },
+  {
+    "anchor": "b7",
+    "goal": "reason",
+    "from_room": "C",
+    "first_rater": "丙",
+    "minutes": 7,
+    "ready": 99
+  },
+  {
+    "anchor": "b8",
+    "goal": "counter",
+    "from_room": "C",
+    "first_rater": "丙",
+    "minutes": 11,
+    "ready": 99
+  }
+]

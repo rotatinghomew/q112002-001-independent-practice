@@ -57,5 +57,27 @@
     "state",
     "minute",
     "publication"
+  ],
+  "anchors": [
+    "anchor",
+    "goal",
+    "from_room",
+    "first_rater",
+    "minutes",
+    "ready"
+  ],
+  "review_rounds": [
+    "rater",
+    "room",
+    "goals",
+    "minutes",
+    "minute"
+  ],
+  "assignments": [
+    "anchor",
+    "goal",
+    "rater",
+    "state",
+    "minute"
   ]
 }

@@ -1,0 +1,31 @@
+[
+  {
+    "rater": "甲",
+    "room": "A",
+    "goals": [
+      "reason",
+      "counter"
+    ],
+    "minutes": 24,
+    "minute": 100
+  },
+  {
+    "rater": "乙",
+    "room": "B",
+    "goals": [
+      "reason"
+    ],
+    "minutes": 20,
+    "minute": 100
+  },
+  {
+    "rater": "丙",
+    "room": "C",
+    "goals": [
+      "reason",
+      "counter"
+    ],
+    "minutes": 15,
+    "minute": 100
+  }
+]
