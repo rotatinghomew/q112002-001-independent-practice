@@ -1,0 +1,18 @@
+[
+  {
+    "student": "s1",
+    "owner": "C"
+  },
+  {
+    "student": "s2",
+    "owner": "B"
+  },
+  {
+    "student": "s3",
+    "owner": "A"
+  },
+  {
+    "student": "s4",
+    "owner": "A"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "objectives": [
+    "goal",
+    "title",
+    "bridge_min",
+    "gap_limit",
+    "independent_min",
+    "score_floor"
+  ],
+  "students": [
+    "student",
+    "owner"
+  ],
+  "attempts": [
+    "attempt",
+    "student",
+    "room",
+    "goal",
+    "activity",
+    "stage",
+    "minute",
+    "channel"
+  ],
+  "hints": [
+    "hint",
+    "student",
+    "goal",
+    "stage",
+    "minute"
+  ],
+  "marks": [
+    "mark",
+    "attempt",
+    "room",
+    "goal",
+    "rater",
+    "score",
+    "received"
+  ],
+  "withdrawals": [
+    "notice",
+    "mark",
+    "received",
+    "reason"
+  ],
+  "minutes": [
+    "publication",
+    "cutoff",
+    "scope"
+  ],
+  "receipts": [
+    "receipt",
+    "student",
+    "goal",
+    "decision",
+    "owner",
+    "state",
+    "minute",
+    "publication"
+  ]
+}

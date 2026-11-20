@@ -1,0 +1,82 @@
+[
+  {
+    "attempt": "a1",
+    "student": "s1",
+    "room": "A",
+    "goal": "reason",
+    "activity": "x1",
+    "stage": 1,
+    "minute": 10,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a2",
+    "student": "s1",
+    "room": "A",
+    "goal": "reason",
+    "activity": "x1",
+    "stage": 1,
+    "minute": 35,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a3",
+    "student": "s1",
+    "room": "C",
+    "goal": "reason",
+    "activity": "x2",
+    "stage": 1,
+    "minute": 50,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a4",
+    "student": "s2",
+    "room": "B",
+    "goal": "reason",
+    "activity": "x3",
+    "stage": 1,
+    "minute": 60,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a5",
+    "student": "s2",
+    "room": "B",
+    "goal": "reason",
+    "activity": "x4",
+    "stage": 1,
+    "minute": 64,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a6",
+    "student": "s3",
+    "room": "A",
+    "goal": "counter",
+    "activity": "x5",
+    "stage": 1,
+    "minute": 65,
+    "channel": "independent"
+  },
+  {
+    "attempt": "a7",
+    "student": "s4",
+    "room": "A",
+    "goal": "reason",
+    "activity": "x6",
+    "stage": 1,
+    "minute": 66,
+    "channel": "unresolved"
+  },
+  {
+    "attempt": "a8",
+    "student": "s4",
+    "room": "A",
+    "goal": "reason",
+    "activity": "x7",
+    "stage": 1,
+    "minute": 70,
+    "channel": "independent"
+  }
+]

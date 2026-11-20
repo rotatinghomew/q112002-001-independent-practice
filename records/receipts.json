@@ -1,0 +1,22 @@
+[
+  {
+    "receipt": "f1",
+    "student": "s1",
+    "goal": "reason",
+    "decision": "辅导",
+    "owner": "C",
+    "state": "complete",
+    "minute": 94,
+    "publication": "m1"
+  },
+  {
+    "receipt": "f2",
+    "student": "s4",
+    "goal": "reason",
+    "decision": "补练",
+    "owner": "A",
+    "state": "open",
+    "minute": 92,
+    "publication": "m1"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "hint": "h1",
+    "student": "s1",
+    "goal": "reason",
+    "stage": 1,
+    "minute": 30
+  },
+  {
+    "hint": "h2",
+    "student": "s4",
+    "goal": "reason",
+    "stage": 1,
+    "minute": null
+  }
+]

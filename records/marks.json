@@ -1,0 +1,164 @@
+[
+  {
+    "mark": "ma1",
+    "attempt": "a1",
+    "room": "A",
+    "goal": "reason",
+    "rater": "甲",
+    "score": 1,
+    "received": 75
+  },
+  {
+    "mark": "ma2",
+    "attempt": "a2",
+    "room": "A",
+    "goal": "reason",
+    "rater": "甲",
+    "score": 4,
+    "received": 75
+  },
+  {
+    "mark": "ma3",
+    "attempt": "a3",
+    "room": "C",
+    "goal": "reason",
+    "rater": "丙",
+    "score": 2,
+    "received": 76
+  },
+  {
+    "mark": "ma4",
+    "attempt": "a4",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 1,
+    "received": 77
+  },
+  {
+    "mark": "ma5",
+    "attempt": "a5",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 1,
+    "received": 77
+  },
+  {
+    "mark": "ma6",
+    "attempt": "a6",
+    "room": "A",
+    "goal": "counter",
+    "rater": "甲",
+    "score": 2,
+    "received": 78
+  },
+  {
+    "mark": "b1a",
+    "attempt": "b1",
+    "room": "A",
+    "goal": "reason",
+    "rater": "甲",
+    "score": 1,
+    "received": 80
+  },
+  {
+    "mark": "b1b",
+    "attempt": "b1",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 2,
+    "received": 81
+  },
+  {
+    "mark": "b2a",
+    "attempt": "b2",
+    "room": "A",
+    "goal": "reason",
+    "rater": "甲",
+    "score": 2,
+    "received": 80
+  },
+  {
+    "mark": "b2b",
+    "attempt": "b2",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 3,
+    "received": 81
+  },
+  {
+    "mark": "b3b",
+    "attempt": "b3",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 2,
+    "received": 82
+  },
+  {
+    "mark": "b3c",
+    "attempt": "b3",
+    "room": "C",
+    "goal": "reason",
+    "rater": "丙",
+    "score": 2,
+    "received": 83
+  },
+  {
+    "mark": "b4b",
+    "attempt": "b4",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 3,
+    "received": 82
+  },
+  {
+    "mark": "b4c",
+    "attempt": "b4",
+    "room": "C",
+    "goal": "reason",
+    "rater": "丙",
+    "score": 3,
+    "received": 83
+  },
+  {
+    "mark": "b5a",
+    "attempt": "b5",
+    "room": "A",
+    "goal": "counter",
+    "rater": "甲",
+    "score": 2,
+    "received": 85
+  },
+  {
+    "mark": "b5c",
+    "attempt": "b5",
+    "room": "C",
+    "goal": "counter",
+    "rater": "丙",
+    "score": 1,
+    "received": 85
+  },
+  {
+    "mark": "b6b",
+    "attempt": "b6",
+    "room": "B",
+    "goal": "reason",
+    "rater": "乙",
+    "score": 1,
+    "received": 104
+  },
+  {
+    "mark": "b6c",
+    "attempt": "b6",
+    "room": "C",
+    "goal": "reason",
+    "rater": "丙",
+    "score": 4,
+    "received": 104
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "goal": "reason",
+    "title": "说明理由",
+    "bridge_min": 2,
+    "gap_limit": 1,
+    "independent_min": 2,
+    "score_floor": 2
+  },
+  {
+    "goal": "counter",
+    "title": "回应反例",
+    "bridge_min": 2,
+    "gap_limit": 1,
+    "independent_min": 1,
+    "score_floor": 2
+  }
+]
